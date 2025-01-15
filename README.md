@@ -54,7 +54,3 @@ Follow these steps to load the extension into your browser:
 
 ## Disclaimer
 This extension is for educational and personal use only. Unauthorized use of Discord tokens may violate Discord’s terms of service. The author is not responsible for any misuse of this tool.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
