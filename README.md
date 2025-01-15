@@ -48,15 +48,12 @@ Follow these steps to load the extension into your browser:
 ## Usage
 1. Open the extension by clicking on its icon in the browser toolbar.
 2. Choose to either:
-   - Retrieve your Discord token.
-   - Log in using a Discord token.
+   - Login With Token
+   - Get Token
 3. Follow on-screen instructions for the selected operation.
 
 ## Disclaimer
 This extension is for educational and personal use only. Unauthorized use of Discord tokens may violate Discord’s terms of service. The author is not responsible for any misuse of this tool.
-
-## Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
