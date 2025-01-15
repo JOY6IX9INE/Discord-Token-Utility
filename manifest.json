@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Discord Token Utility",
+    "version": "2.0",
+    "permissions": ["scripting", "activeTab", "clipboardWrite"],
+    "host_permissions": ["*://*.discord.com/*"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+        "48": "icon.png"
+    }
+}
